@@ -1,1 +1,1 @@
-# Neural Network (CUHK CSCI3230, 2011 fall)
+# Neural Network (CUHK CSCI3230)
